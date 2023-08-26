@@ -1,2 +1,7 @@
 # DIO-Explorando-IA-Generativa-em-um-Pipeline-de-ETL-com-Python
-Projeto para a DIO
+Simples projeto para testar o uso de Api's, ETL e IA.
+Projeto para fins educacionais, Consistindo em:
+1 - Extrair dados do site "https://www.football-data.org/" utilizando sua API.
+2 - Transformar os dados fazendo uso da API opeanai e a API OpenWeatherMap para prever o clima para os horários dos jogos do passo 1.
+3 - Carregar os dados em um arquivo json
+
