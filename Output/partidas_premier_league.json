@@ -1,0 +1,82 @@
+{
+    "0": {
+        "mandante": "Chelsea FC",
+        "visitante": "Luton Town FC",
+        "utc-data": "2023-08-25T19:00:00Z",
+        "cidade": "London",
+        "tempo": "Tempo nublado",
+        "temperatura": "17.2\u00b0C"
+    },
+    "1": {
+        "mandante": "AFC Bournemouth",
+        "visitante": "Tottenham Hotspur FC",
+        "utc-data": "2023-08-26T11:30:00Z",
+        "cidade": "Bournemouth",
+        "tempo": "Tempo nublado",
+        "temperatura": "18.4\u00b0C"
+    },
+    "2": {
+        "mandante": "Everton FC",
+        "visitante": "Wolverhampton Wanderers FC",
+        "utc-data": "2023-08-26T14:00:00Z",
+        "cidade": "Liverpool",
+        "tempo": "Tempo nublado",
+        "temperatura": "15.4\u00b0C"
+    },
+    "3": {
+        "mandante": "Manchester United FC",
+        "visitante": "Nottingham Forest FC",
+        "utc-data": "2023-08-26T14:00:00Z",
+        "cidade": "Old Trafford",
+        "tempo": "Tempo chuvoso",
+        "temperatura": "15.8\u00b0C"
+    },
+    "4": {
+        "mandante": "Arsenal FC",
+        "visitante": "Fulham FC",
+        "utc-data": "2023-08-26T14:00:00Z",
+        "cidade": "London",
+        "tempo": "Tempo nublado",
+        "temperatura": "17.2\u00b0C"
+    },
+    "5": {
+        "mandante": "Brentford FC",
+        "visitante": "Crystal Palace FC",
+        "utc-data": "2023-08-26T14:00:00Z",
+        "cidade": "London",
+        "tempo": "Tempo nublado",
+        "temperatura": "17.2\u00b0C"
+    },
+    "6": {
+        "mandante": "Brighton & Hove Albion FC",
+        "visitante": "West Ham United FC",
+        "utc-data": "2023-08-26T16:30:00Z",
+        "cidade": "Brighton",
+        "tempo": "Tempo parcialmente nublado",
+        "temperatura": "18.6\u00b0C"
+    },
+    "7": {
+        "mandante": "Sheffield United FC",
+        "visitante": "Manchester City FC",
+        "utc-data": "2023-08-27T13:00:00Z",
+        "cidade": "Sheffield",
+        "tempo": "Tempo nublado",
+        "temperatura": "16.4\u00b0C"
+    },
+    "8": {
+        "mandante": "Burnley FC",
+        "visitante": "Aston Villa FC",
+        "utc-data": "2023-08-27T13:00:00Z",
+        "cidade": "Burnley",
+        "tempo": "Tempo chuvoso",
+        "temperatura": "13.6\u00b0C"
+    },
+    "9": {
+        "mandante": "Newcastle United FC",
+        "visitante": "Liverpool FC",
+        "utc-data": "2023-08-27T15:30:00Z",
+        "cidade": "Newcastle upon Tyne",
+        "tempo": "Tempo chuvoso",
+        "temperatura": "15.9\u00b0C"
+    }
+}
